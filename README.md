@@ -15,16 +15,13 @@ Installation
 ## Usage
 Make sure you have your questions in a JSON file in the following format:
 
-json
-Copy code
-[
-    {
-        "prompt": "Question prompt",
-        "options": ["Option 1", "Option 2", "Option 3"],
-        "answer": "Correct option"
-    },
-    ...
-]
+## json
+
+![Screenshot 2024-05-13 at 3 56 42 PM](https://github.com/Sajith-S15/Quiz_py/assets/123757769/3ac02073-a745-4339-9052-48a0a425d806)
+
+
+
+
 
 Run the quiz application:
 
