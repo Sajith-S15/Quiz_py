@@ -1,0 +1,130 @@
+[
+    {
+        "prompt": "What is the capital of France?",
+        "options": ["Paris", "Madrid", "Rome"],
+        "answer": "Paris"
+    },
+    {
+        "prompt": "Who wrote 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Charles Dickens", "Jane Austen"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "prompt": "What is the powerhouse of the cell?",
+        "options": ["Nucleus", "Mitochondria", "Ribosome"],
+        "answer": "Mitochondria"
+    },
+    {
+        "prompt": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter"],
+        "answer": "Mars"
+    },
+    {
+        "prompt": "What is the chemical symbol for water?",
+        "options": ["H2O", "CO2", "NaCl"],
+        "answer": "H2O"
+    },
+    {
+        "prompt": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso"],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "prompt": "Which country is the largest by land area?",
+        "options": ["Russia", "Canada", "China"],
+        "answer": "Russia"
+    },
+    {
+        "prompt": "What is the tallest mountain in the world?",
+        "options": ["Mount Everest", "K2", "Kangchenjunga"],
+        "answer": "Mount Everest"
+    },
+    {
+        "prompt": "Who discovered penicillin?",
+        "options": ["Alexander Fleming", "Marie Curie", "Louis Pasteur"],
+        "answer": "Alexander Fleming"
+    },
+    {
+        "prompt": "What is the capital of Japan?",
+        "options": ["Tokyo", "Kyoto", "Osaka"],
+        "answer": "Tokyo"
+    },
+    {
+        "prompt": "Which gas do plants use to photosynthesize?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "prompt": "What is the smallest bone in the human body?",
+        "options": ["Femur", "Stapes", "Tibia"],
+        "answer": "Stapes"
+    },
+    {
+        "prompt": "Who wrote 'To Kill a Mockingbird'?",
+        "options": ["Harper Lee", "Mark Twain", "Ernest Hemingway"],
+        "answer": "Harper Lee"
+    },
+    {
+        "prompt": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "Fe"],
+        "answer": "Au"
+    },
+    {
+        "prompt": "Which planet is closest to the Sun?",
+        "options": ["Venus", "Mercury", "Mars"],
+        "answer": "Mercury"
+    },
+    {
+        "prompt": "Who is the author of '1984'?",
+        "options": ["George Orwell", "J.K. Rowling", "Stephen King"],
+        "answer": "George Orwell"
+    },
+    {
+        "prompt": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra"],
+        "answer": "Canberra"
+    },
+    {
+        "prompt": "What is the currency of Switzerland?",
+        "options": ["Euro", "Pound", "Swiss Franc"],
+        "answer": "Swiss Franc"
+    },
+    {
+        "prompt": "Who discovered the theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei"],
+        "answer": "Albert Einstein"
+    },
+    {
+        "prompt": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean"
+    },
+    {
+        "prompt": "What is the chemical symbol for iron?",
+        "options": ["Fe", "I", "Ir"],
+        "answer": "Fe"
+    },
+    {
+        "prompt": "Who was the first person to step on the Moon?",
+        "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin"],
+        "answer": "Neil Armstrong"
+    },
+    {
+        "prompt": "What is the capital of Brazil?",
+        "options": ["Rio de Janeiro", "Brasília", "São Paulo"],
+        "answer": "Brasília"
+    },
+    {
+        "prompt": "Who painted 'The Starry Night'?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+        "answer": "Vincent van Gogh"
+    },
+    {
+        "prompt": "What is the chemical symbol for sodium?",
+        "options": ["Na", "So", "Sn"],
+        "answer": "Na"
+    }
+
+
+    
+]
